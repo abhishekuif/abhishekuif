@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhishek
+- 👋 Hi, I’m Abhishek
 - 👀 I’m interested in ...travelling
 - 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...github
